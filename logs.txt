@@ -1,0 +1,1335 @@
+EXTRACTING FRAMES WITHOUT CHDs:
+
+output_folder = 'Frames\Without_CHD'  # Path to save the extracted frames
+Processing video: Data\EchoNet_Dynamic\0X100009310A3BD7FC.avi, FPS: 50.0, Total frames: 174
+Extracted 174 frames from Data\EchoNet_Dynamic\0X100009310A3BD7FC.avi.
+Processing video: Data\EchoNet_Dynamic\0X1002E8FBACD08477.avi, FPS: 50.0, Total frames: 215
+Extracted 215 frames from Data\EchoNet_Dynamic\0X1002E8FBACD08477.avi.
+Processing video: Data\EchoNet_Dynamic\0X1005D03EED19C65B.avi, FPS: 50.0, Total frames: 104
+Extracted 104 frames from Data\EchoNet_Dynamic\0X1005D03EED19C65B.avi.
+Processing video: Data\EchoNet_Dynamic\0X10075961BC11C88E.avi, FPS: 55.0, Total frames: 122
+Extracted 122 frames from Data\EchoNet_Dynamic\0X10075961BC11C88E.avi.
+Processing video: Data\EchoNet_Dynamic\0X10094BA0A028EAC3.avi, FPS: 52.0, Total frames: 207
+Extracted 207 frames from Data\EchoNet_Dynamic\0X10094BA0A028EAC3.avi.
+Processing video: Data\EchoNet_Dynamic\0X100CF05D141FF143.avi, FPS: 50.0, Total frames: 248
+Extracted 248 frames from Data\EchoNet_Dynamic\0X100CF05D141FF143.avi.
+Processing video: Data\EchoNet_Dynamic\0X100E3B8D3280BEC5.avi, FPS: 38.0, Total frames: 101
+Extracted 101 frames from Data\EchoNet_Dynamic\0X100E3B8D3280BEC5.avi.
+Processing video: Data\EchoNet_Dynamic\0X100E491B3CD58DE2.avi, FPS: 50.0, Total frames: 226
+Extracted 226 frames from Data\EchoNet_Dynamic\0X100E491B3CD58DE2.avi.
+Processing video: Data\EchoNet_Dynamic\0X100F044876B98F90.avi, FPS: 50.0, Total frames: 221
+Extracted 221 frames from Data\EchoNet_Dynamic\0X100F044876B98F90.avi.
+Processing video: Data\EchoNet_Dynamic\0X101026B90DAE7E95.avi, FPS: 64.0, Total frames: 147
+Extracted 74 frames from Data\EchoNet_Dynamic\0X101026B90DAE7E95.avi.
+Processing video: Data\EchoNet_Dynamic\0X1012703CDC1436FE.avi, FPS: 50.0, Total frames: 201
+Extracted 201 frames from Data\EchoNet_Dynamic\0X1012703CDC1436FE.avi.
+Processing video: Data\EchoNet_Dynamic\0X1013E8A4864781B.avi, FPS: 47.0, Total frames: 140
+Extracted 140 frames from Data\EchoNet_Dynamic\0X1013E8A4864781B.avi.
+Processing video: Data\EchoNet_Dynamic\0X1018521A3BC5CDBA.avi, FPS: 50.0, Total frames: 162
+Extracted 162 frames from Data\EchoNet_Dynamic\0X1018521A3BC5CDBA.avi.
+Processing video: Data\EchoNet_Dynamic\0X101C388397F66EDB.avi, FPS: 50.0, Total frames: 183
+Extracted 183 frames from Data\EchoNet_Dynamic\0X101C388397F66EDB.avi.
+Processing video: Data\EchoNet_Dynamic\0X101CFC9C5351DCBE.avi, FPS: 50.0, Total frames: 123
+Extracted 123 frames from Data\EchoNet_Dynamic\0X101CFC9C5351DCBE.avi.
+Processing video: Data\EchoNet_Dynamic\0X101E654AF3FC07A8.avi, FPS: 47.0, Total frames: 151
+Extracted 151 frames from Data\EchoNet_Dynamic\0X101E654AF3FC07A8.avi.
+Processing video: Data\EchoNet_Dynamic\0X10267ADF2E644E0.avi, FPS: 50.0, Total frames: 200
+Extracted 200 frames from Data\EchoNet_Dynamic\0X10267ADF2E644E0.avi.
+Processing video: Data\EchoNet_Dynamic\0X102AE9C68B2C46DA.avi, FPS: 52.0, Total frames: 169
+Extracted 169 frames from Data\EchoNet_Dynamic\0X102AE9C68B2C46DA.avi.
+Processing video: Data\EchoNet_Dynamic\0X102C51641C321436.avi, FPS: 50.0, Total frames: 133
+Extracted 133 frames from Data\EchoNet_Dynamic\0X102C51641C321436.avi.
+Processing video: Data\EchoNet_Dynamic\0X102CFB07F752AAE6.avi, FPS: 54.0, Total frames: 217
+Extracted 217 frames from Data\EchoNet_Dynamic\0X102CFB07F752AAE6.avi.
+Processing video: Data\EchoNet_Dynamic\0X102DD1B9BE03716.avi, FPS: 50.0, Total frames: 212
+Extracted 212 frames from Data\EchoNet_Dynamic\0X102DD1B9BE03716.avi.
+Processing video: Data\EchoNet_Dynamic\0X102E453603FA1440.avi, FPS: 50.0, Total frames: 185
+Extracted 185 frames from Data\EchoNet_Dynamic\0X102E453603FA1440.avi.
+Processing video: Data\EchoNet_Dynamic\0X102E94908346DE1D.avi, FPS: 67.0, Total frames: 151
+Extracted 76 frames from Data\EchoNet_Dynamic\0X102E94908346DE1D.avi.
+Processing video: Data\EchoNet_Dynamic\0X102F3D4CD5E10801.avi, FPS: 58.0, Total frames: 199
+Extracted 199 frames from Data\EchoNet_Dynamic\0X102F3D4CD5E10801.avi.
+Processing video: Data\EchoNet_Dynamic\0X10365E52F01510B4.avi, FPS: 33.0, Total frames: 109
+Extracted 109 frames from Data\EchoNet_Dynamic\0X10365E52F01510B4.avi.
+Processing video: Data\EchoNet_Dynamic\0X1039108E17193B1C.avi, FPS: 50.0, Total frames: 233
+Extracted 233 frames from Data\EchoNet_Dynamic\0X1039108E17193B1C.avi.
+Processing video: Data\EchoNet_Dynamic\0X1039B49145DF4F25.avi, FPS: 50.0, Total frames: 154
+Extracted 154 frames from Data\EchoNet_Dynamic\0X1039B49145DF4F25.avi.
+Processing video: Data\EchoNet_Dynamic\0X103A55B2546EF36E.avi, FPS: 50.0, Total frames: 335
+Extracted 335 frames from Data\EchoNet_Dynamic\0X103A55B2546EF36E.avi.
+Processing video: Data\EchoNet_Dynamic\0X103BE163257D663A.avi, FPS: 50.0, Total frames: 190
+Extracted 190 frames from Data\EchoNet_Dynamic\0X103BE163257D663A.avi.
+Processing video: Data\EchoNet_Dynamic\0X1040C376CF369A01.avi, FPS: 50.0, Total frames: 125
+Extracted 125 frames from Data\EchoNet_Dynamic\0X1040C376CF369A01.avi.
+Processing video: Data\EchoNet_Dynamic\0X1040D64234D3E916.avi, FPS: 50.0, Total frames: 190
+Extracted 190 frames from Data\EchoNet_Dynamic\0X1040D64234D3E916.avi.
+Processing video: Data\EchoNet_Dynamic\0X1043D3D352972862.avi, FPS: 47.0, Total frames: 234
+Extracted 234 frames from Data\EchoNet_Dynamic\0X1043D3D352972862.avi.
+Processing video: Data\EchoNet_Dynamic\0X1045F1B5A0A5EA54.avi, FPS: 50.0, Total frames: 219
+Extracted 219 frames from Data\EchoNet_Dynamic\0X1045F1B5A0A5EA54.avi.
+Processing video: Data\EchoNet_Dynamic\0X104D2C3D60AE3DE8.avi, FPS: 50.0, Total frames: 242
+Extracted 242 frames from Data\EchoNet_Dynamic\0X104D2C3D60AE3DE8.avi.
+Processing video: Data\EchoNet_Dynamic\0X105039B849CDB1CD.avi, FPS: 50.0, Total frames: 212
+Extracted 212 frames from Data\EchoNet_Dynamic\0X105039B849CDB1CD.avi.
+Processing video: Data\EchoNet_Dynamic\0X10516E63208D8EA1.avi, FPS: 50.0, Total frames: 198
+Extracted 198 frames from Data\EchoNet_Dynamic\0X10516E63208D8EA1.avi.
+Processing video: Data\EchoNet_Dynamic\0X1055D6B76E5D7556.avi, FPS: 50.0, Total frames: 147
+Extracted 147 frames from Data\EchoNet_Dynamic\0X1055D6B76E5D7556.avi.
+Processing video: Data\EchoNet_Dynamic\0X10569E00E4DFFF7D.avi, FPS: 46.0, Total frames: 113
+Extracted 113 frames from Data\EchoNet_Dynamic\0X10569E00E4DFFF7D.avi.
+Processing video: Data\EchoNet_Dynamic\0X1059077339EF0869.avi, FPS: 50.0, Total frames: 201
+Extracted 201 frames from Data\EchoNet_Dynamic\0X1059077339EF0869.avi.
+Processing video: Data\EchoNet_Dynamic\0X105B9EF57DE45DCB.avi, FPS: 50.0, Total frames: 202
+Extracted 202 frames from Data\EchoNet_Dynamic\0X105B9EF57DE45DCB.avi.
+Processing video: Data\EchoNet_Dynamic\0X105CDF495F9A9A43.avi, FPS: 50.0, Total frames: 142
+Extracted 142 frames from Data\EchoNet_Dynamic\0X105CDF495F9A9A43.avi.
+Processing video: Data\EchoNet_Dynamic\0X105D400DBDB7A1FA.avi, FPS: 50.0, Total frames: 158
+Extracted 158 frames from Data\EchoNet_Dynamic\0X105D400DBDB7A1FA.avi.
+Processing video: Data\EchoNet_Dynamic\0X105E0E36E611D657.avi, FPS: 50.0, Total frames: 249
+Extracted 249 frames from Data\EchoNet_Dynamic\0X105E0E36E611D657.avi.
+Processing video: Data\EchoNet_Dynamic\0X10623D3AF96AC271.avi, FPS: 50.0, Total frames: 125
+Extracted 125 frames from Data\EchoNet_Dynamic\0X10623D3AF96AC271.avi.
+Processing video: Data\EchoNet_Dynamic\0X1062E316DF137FDB.avi, FPS: 50.0, Total frames: 163
+Extracted 163 frames from Data\EchoNet_Dynamic\0X1062E316DF137FDB.avi.
+Processing video: Data\EchoNet_Dynamic\0X10648BFB1458861.avi, FPS: 50.0, Total frames: 106
+Extracted 106 frames from Data\EchoNet_Dynamic\0X10648BFB1458861.avi.
+Processing video: Data\EchoNet_Dynamic\0X106766224781FAE2.avi, FPS: 50.0, Total frames: 88
+Extracted 88 frames from Data\EchoNet_Dynamic\0X106766224781FAE2.avi.
+Processing video: Data\EchoNet_Dynamic\0X106A8FDB8A83534B.avi, FPS: 50.0, Total frames: 228
+Extracted 228 frames from Data\EchoNet_Dynamic\0X106A8FDB8A83534B.avi.
+Processing video: Data\EchoNet_Dynamic\0X106B384BEED608E3.avi, FPS: 50.0, Total frames: 134
+Extracted 134 frames from Data\EchoNet_Dynamic\0X106B384BEED608E3.avi.
+Processing video: Data\EchoNet_Dynamic\0X106E73F4961CC47B.avi, FPS: 50.0, Total frames: 131
+Extracted 131 frames from Data\EchoNet_Dynamic\0X106E73F4961CC47B.avi.
+Processing video: Data\EchoNet_Dynamic\0X106EA7D9DEC59EA9.avi, FPS: 50.0, Total frames: 187
+Extracted 187 frames from Data\EchoNet_Dynamic\0X106EA7D9DEC59EA9.avi.
+Processing video: Data\EchoNet_Dynamic\0X106FE6CF624D4C8C.avi, FPS: 50.0, Total frames: 104
+Extracted 104 frames from Data\EchoNet_Dynamic\0X106FE6CF624D4C8C.avi.
+Processing video: Data\EchoNet_Dynamic\0X1070ABA581A9A255.avi, FPS: 50.0, Total frames: 154
+Extracted 154 frames from Data\EchoNet_Dynamic\0X1070ABA581A9A255.avi.
+Processing video: Data\EchoNet_Dynamic\0X107458C8895A9AC9.avi, FPS: 50.0, Total frames: 151
+Extracted 151 frames from Data\EchoNet_Dynamic\0X107458C8895A9AC9.avi.
+Processing video: Data\EchoNet_Dynamic\0X1082BF2A3762D881.avi, FPS: 50.0, Total frames: 171
+Extracted 171 frames from Data\EchoNet_Dynamic\0X1082BF2A3762D881.avi.
+Processing video: Data\EchoNet_Dynamic\0X1088B755BC61AF23.avi, FPS: 50.0, Total frames: 162
+Extracted 162 frames from Data\EchoNet_Dynamic\0X1088B755BC61AF23.avi.
+Processing video: Data\EchoNet_Dynamic\0X108B163EEADDDABC.avi, FPS: 50.0, Total frames: 147
+Extracted 147 frames from Data\EchoNet_Dynamic\0X108B163EEADDDABC.avi.
+Processing video: Data\EchoNet_Dynamic\0X108B4B26B48E417B.avi, FPS: 50.0, Total frames: 134
+Extracted 134 frames from Data\EchoNet_Dynamic\0X108B4B26B48E417B.avi.
+Processing video: Data\EchoNet_Dynamic\0X1093398DC18FB3B3.avi, FPS: 50.0, Total frames: 218
+Extracted 218 frames from Data\EchoNet_Dynamic\0X1093398DC18FB3B3.avi.
+Processing video: Data\EchoNet_Dynamic\0X1096572D64654BBD.avi, FPS: 50.0, Total frames: 128
+Extracted 128 frames from Data\EchoNet_Dynamic\0X1096572D64654BBD.avi.
+Processing video: Data\EchoNet_Dynamic\0X1098A9CCA66A5DD0.avi, FPS: 50.0, Total frames: 148
+Extracted 148 frames from Data\EchoNet_Dynamic\0X1098A9CCA66A5DD0.avi.
+Processing video: Data\EchoNet_Dynamic\0X109D27B0A540F9F6.avi, FPS: 50.0, Total frames: 198
+Extracted 198 frames from Data\EchoNet_Dynamic\0X109D27B0A540F9F6.avi.
+Processing video: Data\EchoNet_Dynamic\0X10A28877E97DF540.avi, FPS: 50.0, Total frames: 211
+Extracted 211 frames from Data\EchoNet_Dynamic\0X10A28877E97DF540.avi.
+Processing video: Data\EchoNet_Dynamic\0X10A5FC19152B50A5.avi, FPS: 50.0, Total frames: 149
+Extracted 149 frames from Data\EchoNet_Dynamic\0X10A5FC19152B50A5.avi.
+Processing video: Data\EchoNet_Dynamic\0X10A8ADB48536C3D5.avi, FPS: 31.0, Total frames: 120
+Extracted 120 frames from Data\EchoNet_Dynamic\0X10A8ADB48536C3D5.avi.
+Processing video: Data\EchoNet_Dynamic\0X10A9B17E26220232.avi, FPS: 50.0, Total frames: 218
+Extracted 218 frames from Data\EchoNet_Dynamic\0X10A9B17E26220232.avi.
+Processing video: Data\EchoNet_Dynamic\0X10ABB3401FC5EC2D.avi, FPS: 50.0, Total frames: 195
+Extracted 195 frames from Data\EchoNet_Dynamic\0X10ABB3401FC5EC2D.avi.
+Processing video: Data\EchoNet_Dynamic\0X10AD385C206C85C.avi, FPS: 50.0, Total frames: 174
+Extracted 174 frames from Data\EchoNet_Dynamic\0X10AD385C206C85C.avi.
+Processing video: Data\EchoNet_Dynamic\0X10B04432B90E5AC2.avi, FPS: 62.0, Total frames: 232
+Extracted 116 frames from Data\EchoNet_Dynamic\0X10B04432B90E5AC2.avi.
+Processing video: Data\EchoNet_Dynamic\0X10B063E16BA7BEE3.avi, FPS: 50.0, Total frames: 124
+Extracted 124 frames from Data\EchoNet_Dynamic\0X10B063E16BA7BEE3.avi.
+Processing video: Data\EchoNet_Dynamic\0X10B13E581B12A53C.avi, FPS: 50.0, Total frames: 112
+Extracted 112 frames from Data\EchoNet_Dynamic\0X10B13E581B12A53C.avi.
+Processing video: Data\EchoNet_Dynamic\0X10B7505562B0A702.avi, FPS: 50.0, Total frames: 175
+Extracted 175 frames from Data\EchoNet_Dynamic\0X10B7505562B0A702.avi.
+Processing video: Data\EchoNet_Dynamic\0X10BC6AA53115AA06.avi, FPS: 43.0, Total frames: 161
+Extracted 161 frames from Data\EchoNet_Dynamic\0X10BC6AA53115AA06.avi.
+Processing video: Data\EchoNet_Dynamic\0X10BD75A3203C3BB9.avi, FPS: 50.0, Total frames: 197
+Extracted 197 frames from Data\EchoNet_Dynamic\0X10BD75A3203C3BB9.avi.
+Processing video: Data\EchoNet_Dynamic\0X10BDFD27E27D56A9.avi, FPS: 50.0, Total frames: 230
+Extracted 230 frames from Data\EchoNet_Dynamic\0X10BDFD27E27D56A9.avi.
+Processing video: Data\EchoNet_Dynamic\0X10BFDDD409BA5A7A.avi, FPS: 50.0, Total frames: 204
+Extracted 204 frames from Data\EchoNet_Dynamic\0X10BFDDD409BA5A7A.avi.
+Processing video: Data\EchoNet_Dynamic\0X10C2D4AA0721C0FB.avi, FPS: 56.0, Total frames: 196
+Extracted 196 frames from Data\EchoNet_Dynamic\0X10C2D4AA0721C0FB.avi.
+Processing video: Data\EchoNet_Dynamic\0X10C3E084B3ABE52A.avi, FPS: 50.0, Total frames: 217
+Extracted 217 frames from Data\EchoNet_Dynamic\0X10C3E084B3ABE52A.avi.
+Processing video: Data\EchoNet_Dynamic\0X10C4823DD13E1869.avi, FPS: 50.0, Total frames: 142
+Extracted 142 frames from Data\EchoNet_Dynamic\0X10C4823DD13E1869.avi.
+Processing video: Data\EchoNet_Dynamic\0X10C53B6D1D01A54A.avi, FPS: 50.0, Total frames: 183
+Extracted 183 frames from Data\EchoNet_Dynamic\0X10C53B6D1D01A54A.avi.
+Processing video: Data\EchoNet_Dynamic\0X10CA19FBE6D26A71.avi, FPS: 50.0, Total frames: 203
+Extracted 203 frames from Data\EchoNet_Dynamic\0X10CA19FBE6D26A71.avi.
+Processing video: Data\EchoNet_Dynamic\0X10D11D93FB71B19C.avi, FPS: 50.0, Total frames: 204
+Extracted 204 frames from Data\EchoNet_Dynamic\0X10D11D93FB71B19C.avi.
+Processing video: Data\EchoNet_Dynamic\0X10D1B5DDEBC0E3C8.avi, FPS: 50.0, Total frames: 117
+Extracted 117 frames from Data\EchoNet_Dynamic\0X10D1B5DDEBC0E3C8.avi.
+Processing video: Data\EchoNet_Dynamic\0X10D278E3FD2DE072.avi, FPS: 50.0, Total frames: 159
+Extracted 159 frames from Data\EchoNet_Dynamic\0X10D278E3FD2DE072.avi.
+Processing video: Data\EchoNet_Dynamic\0X10D5F8CF0EB124.avi, FPS: 50.0, Total frames: 145
+Extracted 145 frames from Data\EchoNet_Dynamic\0X10D5F8CF0EB124.avi.
+Processing video: Data\EchoNet_Dynamic\0X10D734CBEB6ECB81.avi, FPS: 28.0, Total frames: 56
+
+EXTRACTING FRAMES WITH CHDs:
+
+output_folder = 'Frames\With_CHD'  # Path to save the extracted frames
+Processing video: Data\pediatric_echo_avi\CR32a7555-CR32a7582-000039.avi, FPS: 50.0, Total frames: 47
+Extracted 47 frames from Data\pediatric_echo_avi\CR32a7555-CR32a7582-000039.avi.
+Processing video: Data\pediatric_echo_avi\CR32a7555-CR32a97af-000033.avi, FPS: 50.0, Total frames: 102
+Extracted 102 frames from Data\pediatric_echo_avi\CR32a7555-CR32a97af-000033.avi.
+Processing video: Data\pediatric_echo_avi\CR32a7555-CR32a97e1-000024.avi, FPS: 50.0, Total frames: 25
+Extracted 25 frames from Data\pediatric_echo_avi\CR32a7555-CR32a97e1-000024.avi.
+Processing video: Data\pediatric_echo_avi\CR32a7555-CR32a9850-000040.avi, FPS: 56.0, Total frames: 87
+Extracted 87 frames from Data\pediatric_echo_avi\CR32a7555-CR32a9850-000040.avi.
+Processing video: Data\pediatric_echo_avi\CR32a7555-CR32a988d-000034.avi, FPS: 50.0, Total frames: 234
+Extracted 234 frames from Data\pediatric_echo_avi\CR32a7555-CR32a988d-000034.avi.
+Processing video: Data\pediatric_echo_avi\CR32a7555-CR32a9973-000041.avi, FPS: 50.0, Total frames: 107
+Extracted 107 frames from Data\pediatric_echo_avi\CR32a7555-CR32a9973-000041.avi.
+Processing video: Data\pediatric_echo_avi\CR32a7555-CR32a99aa-000059.avi, FPS: 50.0, Total frames: 80
+Extracted 80 frames from Data\pediatric_echo_avi\CR32a7555-CR32a99aa-000059.avi.
+Processing video: Data\pediatric_echo_avi\CR32a7555-CR32a9a90-000039.avi, FPS: 50.0, Total frames: 48
+Extracted 48 frames from Data\pediatric_echo_avi\CR32a7555-CR32a9a90-000039.avi.
+Processing video: Data\pediatric_echo_avi\CR32a7555-CR3dca855-000080.avi, FPS: 72.0, Total frames: 75
+Extracted 38 frames from Data\pediatric_echo_avi\CR32a7555-CR3dca855-000080.avi.
+Processing video: Data\pediatric_echo_avi\CR32a7555-CR3dcafc5-000030.avi, FPS: 55.0, Total frames: 56
+Extracted 56 frames from Data\pediatric_echo_avi\CR32a7555-CR3dcafc5-000030.avi.
+Processing video: Data\pediatric_echo_avi\CR32a7556-CR32a7583-000032.avi, FPS: 50.0, Total frames: 29
+Extracted 29 frames from Data\pediatric_echo_avi\CR32a7556-CR32a7583-000032.avi.
+Processing video: Data\pediatric_echo_avi\CR32a7556-CR32a9944-000005.avi, FPS: 50.0, Total frames: 25
+Extracted 25 frames from Data\pediatric_echo_avi\CR32a7556-CR32a9944-000005.avi.
+Processing video: Data\pediatric_echo_avi\CR32a7556-CR32a99fd-000048.avi, FPS: 50.0, Total frames: 30
+Extracted 30 frames from Data\pediatric_echo_avi\CR32a7556-CR32a99fd-000048.avi.
+Processing video: Data\pediatric_echo_avi\CR32a7556-CR32a9a63-000054.avi, FPS: 50.0, Total frames: 45
+Extracted 45 frames from Data\pediatric_echo_avi\CR32a7556-CR32a9a63-000054.avi.
+Processing video: Data\pediatric_echo_avi\CR32a7556-CR32a9a75-000007.avi, FPS: 50.0, Total frames: 31
+Extracted 31 frames from Data\pediatric_echo_avi\CR32a7556-CR32a9a75-000007.avi.
+Processing video: Data\pediatric_echo_avi\CR32a7556-CR3dcacc6-000081.avi, FPS: 50.0, Total frames: 66
+Extracted 66 frames from Data\pediatric_echo_avi\CR32a7556-CR3dcacc6-000081.avi.
+Processing video: Data\pediatric_echo_avi\CR32a7557-CR32a7584-000051.avi, FPS: 50.0, Total frames: 122
+Extracted 122 frames from Data\pediatric_echo_avi\CR32a7557-CR32a7584-000051.avi.
+Processing video: Data\pediatric_echo_avi\CR32a7557-CR32a9915-000051.avi, FPS: 52.0, Total frames: 96
+Extracted 96 frames from Data\pediatric_echo_avi\CR32a7557-CR32a9915-000051.avi.
+Processing video: Data\pediatric_echo_avi\CR32a7557-CR32a9a22-000073.avi, FPS: 50.0, Total frames: 90
+Extracted 90 frames from Data\pediatric_echo_avi\CR32a7557-CR32a9a22-000073.avi.
+Processing video: Data\pediatric_echo_avi\CR32a7558-CR32a7585-000056.avi, FPS: 50.0, Total frames: 38
+Extracted 38 frames from Data\pediatric_echo_avi\CR32a7558-CR32a7585-000056.avi.
+Processing video: Data\pediatric_echo_avi\CR32a7558-CR32a9ab2-000062.avi, FPS: 50.0, Total frames: 202
+Extracted 202 frames from Data\pediatric_echo_avi\CR32a7558-CR32a9ab2-000062.avi.
+Processing video: Data\pediatric_echo_avi\CR32a7558-CR3dcb19a-000055.avi, FPS: 123.0, Total frames: 476
+Extracted 119 frames from Data\pediatric_echo_avi\CR32a7558-CR3dcb19a-000055.avi.
+Processing video: Data\pediatric_echo_avi\CR32a7558-CR3dcb1c5-000064.avi, FPS: 96.0, Total frames: 227
+Extracted 76 frames from Data\pediatric_echo_avi\CR32a7558-CR3dcb1c5-000064.avi.
+Processing video: Data\pediatric_echo_avi\CR32a7558-CR3dcb1d0-000054.avi, FPS: 50.0, Total frames: 28
+Extracted 28 frames from Data\pediatric_echo_avi\CR32a7558-CR3dcb1d0-000054.avi.
+Processing video: Data\pediatric_echo_avi\CR32a7558-CR3dcb910-000037.avi, FPS: 50.0, Total frames: 25
+Extracted 25 frames from Data\pediatric_echo_avi\CR32a7558-CR3dcb910-000037.avi.
+Processing video: Data\pediatric_echo_avi\CR32a7559-CR32a7586-000045.avi, FPS: 50.0, Total frames: 63
+Extracted 63 frames from Data\pediatric_echo_avi\CR32a7559-CR32a7586-000045.avi.
+Processing video: Data\pediatric_echo_avi\CR32a7559-CR32a9980-000045.avi, FPS: 50.0, Total frames: 129
+Extracted 129 frames from Data\pediatric_echo_avi\CR32a7559-CR32a9980-000045.avi.
+Processing video: Data\pediatric_echo_avi\CR32a7559-CR3dcb797-000041.avi, FPS: 66.0, Total frames: 110
+Extracted 55 frames from Data\pediatric_echo_avi\CR32a7559-CR3dcb797-000041.avi.
+Processing video: Data\pediatric_echo_avi\CR32a7559-CR3dcb978-000040.avi, FPS: 50.0, Total frames: 113
+Extracted 113 frames from Data\pediatric_echo_avi\CR32a7559-CR3dcb978-000040.avi.
+Processing video: Data\pediatric_echo_avi\CR32a755a-CR32a97b1-000046.avi, FPS: 33.0, Total frames: 52
+Extracted 52 frames from Data\pediatric_echo_avi\CR32a755a-CR32a97b1-000046.avi.
+Processing video: Data\pediatric_echo_avi\CR32a755a-CR3dcad8b-000033.avi, FPS: 36.0, Total frames: 70
+Extracted 70 frames from Data\pediatric_echo_avi\CR32a755a-CR3dcad8b-000033.avi.
+Processing video: Data\pediatric_echo_avi\CR32a755b-CR32a7588-000014.avi, FPS: 50.0, Total frames: 45
+Extracted 45 frames from Data\pediatric_echo_avi\CR32a755b-CR32a7588-000014.avi.
+Processing video: Data\pediatric_echo_avi\CR32a755b-CR32a758e-000101.avi, FPS: 50.0, Total frames: 32
+Extracted 32 frames from Data\pediatric_echo_avi\CR32a755b-CR32a758e-000101.avi.
+Processing video: Data\pediatric_echo_avi\CR32a755b-CR32a978f-000067.avi, FPS: 50.0, Total frames: 36
+Extracted 36 frames from Data\pediatric_echo_avi\CR32a755b-CR32a978f-000067.avi.
+Processing video: Data\pediatric_echo_avi\CR32a755b-CR32a9834-000073.avi, FPS: 50.0, Total frames: 93
+Extracted 93 frames from Data\pediatric_echo_avi\CR32a755b-CR32a9834-000073.avi.
+Processing video: Data\pediatric_echo_avi\CR32a755b-CR32a993c-000061.avi, FPS: 50.0, Total frames: 115
+Extracted 115 frames from Data\pediatric_echo_avi\CR32a755b-CR32a993c-000061.avi.
+Processing video: Data\pediatric_echo_avi\CR32a755b-CR32a9986-000039.avi, FPS: 50.0, Total frames: 136
+Extracted 136 frames from Data\pediatric_echo_avi\CR32a755b-CR32a9986-000039.avi.
+Processing video: Data\pediatric_echo_avi\CR32a755b-CR32a9aa6-000036.avi, FPS: 55.0, Total frames: 80
+Extracted 80 frames from Data\pediatric_echo_avi\CR32a755b-CR32a9aa6-000036.avi.
+Processing video: Data\pediatric_echo_avi\CR32a755b-CR32a9ac1-000055.avi, FPS: 30.0, Total frames: 61
+Extracted 61 frames from Data\pediatric_echo_avi\CR32a755b-CR32a9ac1-000055.avi.
+Processing video: Data\pediatric_echo_avi\CR32a755c-CR32a7589-000047.avi, FPS: 50.0, Total frames: 94
+Extracted 94 frames from Data\pediatric_echo_avi\CR32a755c-CR32a7589-000047.avi.
+Processing video: Data\pediatric_echo_avi\CR32a755c-CR3dcb018-000037.avi, FPS: 50.0, Total frames: 71
+Extracted 71 frames from Data\pediatric_echo_avi\CR32a755c-CR3dcb018-000037.avi.
+Processing video: Data\pediatric_echo_avi\CR32a755d-CR32a758a-000041.avi, FPS: 50.0, Total frames: 50
+Extracted 50 frames from Data\pediatric_echo_avi\CR32a755d-CR32a758a-000041.avi.
+Processing video: Data\pediatric_echo_avi\CR32a755d-CR32a758a-000089.avi, FPS: 50.0, Total frames: 45
+Extracted 45 frames from Data\pediatric_echo_avi\CR32a755d-CR32a758a-000089.avi.
+Processing video: Data\pediatric_echo_avi\CR32a755e-CR32a99e5-000033.avi, FPS: 25.0, Total frames: 24
+
+EXTRACTING FRAMES TEST WITH CHDs:
+
+output_folder = "Test Frames\With_CHDs"  # Replace with your output folder path
+Processing video: Test Data\With_CHDs\CR3dca6a0-CR3dca87f-000033.avi, FPS: 50.0, Total frames: 58
+Extracted 58 frames from Test Data\With_CHDs\CR3dca6a0-CR3dca87f-000033.avi.
+Processing video: Test Data\With_CHDs\CR3dca6a1-CR3dca881-000060.avi, FPS: 50.0, Total frames: 58
+Extracted 58 frames from Test Data\With_CHDs\CR3dca6a1-CR3dca881-000060.avi.
+Processing video: Test Data\With_CHDs\CR3dca6a1-CR3dcaad2-000042.avi, FPS: 50.0, Total frames: 70
+Extracted 70 frames from Test Data\With_CHDs\CR3dca6a1-CR3dcaad2-000042.avi.
+Processing video: Test Data\With_CHDs\CR3dca6a2-CR3dca909-000041.avi, FPS: 50.0, Total frames: 48
+Extracted 48 frames from Test Data\With_CHDs\CR3dca6a2-CR3dca909-000041.avi.
+Processing video: Test Data\With_CHDs\CR3dca6a2-CR3dca9db-000065.avi, FPS: 50.0, Total frames: 62
+Extracted 62 frames from Test Data\With_CHDs\CR3dca6a2-CR3dca9db-000065.avi.
+Processing video: Test Data\With_CHDs\CR3dca6a2-CR3dcb41c-000048.avi, FPS: 90.0, Total frames: 113
+Extracted 38 frames from Test Data\With_CHDs\CR3dca6a2-CR3dcb41c-000048.avi.
+Processing video: Test Data\With_CHDs\CR3dca6a3-CR3dca885-000031.avi, FPS: 34.0, Total frames: 41
+Extracted 41 frames from Test Data\With_CHDs\CR3dca6a3-CR3dca885-000031.avi.
+Processing video: Test Data\With_CHDs\CR3dca6a4-CR3dca888-000031.avi, FPS: 50.0, Total frames: 77
+Extracted 77 frames from Test Data\With_CHDs\CR3dca6a4-CR3dca888-000031.avi.
+Processing video: Test Data\With_CHDs\CR3dca6a5-CR3dca889-000093.avi, FPS: 53.0, Total frames: 78
+Extracted 78 frames from Test Data\With_CHDs\CR3dca6a5-CR3dca889-000093.avi.
+Processing video: Test Data\With_CHDs\CR3dca6a5-CR3dcb62b-000035.avi, FPS: 50.0, Total frames: 93
+Extracted 93 frames from Test Data\With_CHDs\CR3dca6a5-CR3dcb62b-000035.avi.
+Processed 10 videos. Frames saved in Test Frames\With_CHDs.
+
+EXTRACTING FRAMES TEST WITHOUT CHDs:
+
+output_folder = "Test Frames\Without_CHDs"  # Replace with your output folder path
+Processing video: Test Data\Without_CHDs\0X1A05DFFFCAFB253B.avi, FPS: 50.0, Total frames: 166
+Extracted 166 frames from Test Data\Without_CHDs\0X1A05DFFFCAFB253B.avi.
+Processing video: Test Data\Without_CHDs\0X1A0A263B22CCD966.avi, FPS: 50.0, Total frames: 140
+Extracted 140 frames from Test Data\Without_CHDs\0X1A0A263B22CCD966.avi.
+Processing video: Test Data\Without_CHDs\0X1A2A76BDB5B98BED.avi, FPS: 50.0, Total frames: 201
+Extracted 201 frames from Test Data\Without_CHDs\0X1A2A76BDB5B98BED.avi.
+Processing video: Test Data\Without_CHDs\0X1A2C60147AF9FDAE.avi, FPS: 50.0, Total frames: 173
+Extracted 173 frames from Test Data\Without_CHDs\0X1A2C60147AF9FDAE.avi.
+Processing video: Test Data\Without_CHDs\0X1A2E9496910EFF5B.avi, FPS: 50.0, Total frames: 171
+Extracted 171 frames from Test Data\Without_CHDs\0X1A2E9496910EFF5B.avi.
+Processing video: Test Data\Without_CHDs\0X1A3D565B371DC573.avi, FPS: 116.0, Total frames: 327
+Extracted 109 frames from Test Data\Without_CHDs\0X1A3D565B371DC573.avi.
+Processing video: Test Data\Without_CHDs\0X1A3E7BF1DFB132FB.avi, FPS: 50.0, Total frames: 210
+Extracted 210 frames from Test Data\Without_CHDs\0X1A3E7BF1DFB132FB.avi.
+Processing video: Test Data\Without_CHDs\0X1A5FAE3F9D37794E.avi, FPS: 50.0, Total frames: 133
+Extracted 133 frames from Test Data\Without_CHDs\0X1A5FAE3F9D37794E.avi.
+Processing video: Test Data\Without_CHDs\0X1A6ACFE7B286DAFC.avi, FPS: 50.0, Total frames: 242
+Extracted 242 frames from Test Data\Without_CHDs\0X1A6ACFE7B286DAFC.avi.
+Processing video: Test Data\Without_CHDs\0X1A8D85542DBE8204.avi, FPS: 50.0, Total frames: 188
+Extracted 188 frames from Test Data\Without_CHDs\0X1A8D85542DBE8204.avi.
+Processed 10 videos. Frames saved in Test Frames\Without_CHDs.
+
+GRAYSCALE TEST FRAMES WITHOUT CHDs:
+
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_130.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_130.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_131.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_131.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_132.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_132.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_133.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_133.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_134.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_134.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_135.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_135.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_136.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_136.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_137.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_137.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_138.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_138.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_139.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_139.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_14.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_14.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_140.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_140.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_141.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_141.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_142.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_142.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_143.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_143.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_144.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_144.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_145.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_145.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_146.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_146.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_147.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_147.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_148.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_148.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_149.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_149.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_15.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_15.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_150.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_150.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_151.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_151.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_152.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_152.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_153.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_153.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_154.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_154.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_155.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_155.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_156.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_156.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_157.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_157.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_158.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_158.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_159.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_159.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_16.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_16.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_160.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_160.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_161.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_161.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_162.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_162.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_163.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_163.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_164.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_164.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_165.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_165.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_166.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_166.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_167.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_167.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_168.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_168.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_169.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_169.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_17.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_17.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_170.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_170.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_18.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_18.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_19.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_19.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_2.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_2.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_20.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_20.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_21.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_21.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_22.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_22.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_23.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_23.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_24.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_24.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_25.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_25.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_26.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_26.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_27.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_27.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_28.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_28.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_29.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_29.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_3.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_3.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_30.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_30.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_31.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_31.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_32.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_32.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_33.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_33.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_34.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_34.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_35.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_35.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_36.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_36.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_37.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_37.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_38.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_38.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_39.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_39.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_4.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_4.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_40.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_40.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_41.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_41.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_42.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_42.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_43.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_43.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_44.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_44.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_45.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_45.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_46.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_46.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_47.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_47.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_48.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_48.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_49.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_49.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_5.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_5.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_50.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_50.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_51.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_51.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_52.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_52.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_53.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_53.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_54.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_54.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_55.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_55.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_56.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_56.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_57.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_57.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_58.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_58.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_59.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_59.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_6.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_6.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_60.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_60.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_61.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_61.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_62.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_62.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_63.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_63.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_64.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_64.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_65.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_65.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_66.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_66.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_67.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_67.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_68.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_68.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_69.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_69.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_7.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_7.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_70.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_70.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_71.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_71.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_72.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_72.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_73.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_73.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_74.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_74.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_75.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_75.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_76.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_76.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_77.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_77.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_78.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_78.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_79.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_79.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_8.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_8.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_80.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_80.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_81.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_81.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_82.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_82.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_83.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_83.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_84.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_84.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_85.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_85.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_86.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_86.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_87.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_87.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_88.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_88.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_89.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_89.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_9.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_9.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_90.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_90.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_91.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_91.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_92.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_92.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_93.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_93.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_94.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_94.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_95.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_95.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_96.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_96.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_97.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_97.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_98.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_98.jpg
+Converted Test_Frames\Without_CHDs\0X1A2E9496910EFF5B\frame_99.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A2E9496910EFF5B\frame_99.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_0.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_0.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_102.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_102.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_105.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_105.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_108.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_108.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_111.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_111.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_114.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_114.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_117.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_117.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_12.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_12.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_120.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_120.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_123.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_123.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_126.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_126.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_129.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_129.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_132.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_132.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_135.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_135.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_138.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_138.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_141.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_141.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_144.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_144.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_147.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_147.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_15.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_15.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_150.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_150.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_153.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_153.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_156.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_156.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_159.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_159.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_162.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_162.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_165.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_165.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_168.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_168.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_171.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_171.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_174.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_174.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_177.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_177.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_18.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_18.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_180.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_180.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_183.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_183.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_186.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_186.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_189.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_189.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_192.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_192.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_195.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_195.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_198.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_198.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_201.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_201.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_204.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_204.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_207.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_207.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_21.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_21.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_210.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_210.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_213.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_213.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_216.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_216.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_219.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_219.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_222.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_222.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_225.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_225.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_228.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_228.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_231.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_231.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_234.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_234.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_237.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_237.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_24.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_24.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_240.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_240.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_243.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_243.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_246.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_246.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_249.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_249.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_252.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_252.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_255.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_255.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_258.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_258.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_261.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_261.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_264.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_264.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_267.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_267.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_27.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_27.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_270.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_270.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_273.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_273.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_276.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_276.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_279.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_279.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_282.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_282.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_285.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_285.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_288.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_288.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_291.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_291.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_294.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_294.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_297.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_297.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_3.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_3.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_30.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_30.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_300.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_300.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_303.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_303.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_306.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_306.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_309.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_309.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_312.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_312.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_315.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_315.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_318.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_318.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_321.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_321.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_324.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_324.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_33.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_33.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_36.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_36.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_39.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_39.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_42.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_42.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_45.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_45.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_48.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_48.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_51.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_51.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_54.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_54.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_57.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_57.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_6.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_6.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_60.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_60.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_63.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_63.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_66.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_66.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_69.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_69.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_72.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_72.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_75.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_75.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_78.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_78.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_81.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_81.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_84.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_84.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_87.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_87.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_9.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_9.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_90.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_90.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_93.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_93.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_96.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_96.jpg
+Converted Test_Frames\Without_CHDs\0X1A3D565B371DC573\frame_99.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3D565B371DC573\frame_99.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_0.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_0.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_1.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_1.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_10.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_10.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_100.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_100.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_101.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_101.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_102.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_102.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_103.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_103.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_104.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_104.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_105.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_105.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_106.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_106.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_107.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_107.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_108.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_108.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_109.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_109.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_11.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_11.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_110.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_110.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_111.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_111.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_112.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_112.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_113.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_113.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_114.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_114.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_115.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_115.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_116.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_116.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_117.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_117.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_118.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_118.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_119.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_119.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_12.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_12.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_120.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_120.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_121.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_121.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_122.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_122.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_123.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_123.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_124.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_124.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_125.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_125.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_126.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_126.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_127.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_127.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_128.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_128.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_129.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_129.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_13.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_13.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_130.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_130.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_131.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_131.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_132.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_132.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_133.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_133.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_134.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_134.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_135.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_135.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_136.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_136.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_137.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_137.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_138.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_138.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_139.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_139.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_14.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_14.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_140.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_140.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_141.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_141.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_142.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_142.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_143.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_143.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_144.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_144.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_145.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_145.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_146.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_146.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_147.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_147.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_148.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_148.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_149.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_149.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_15.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_15.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_150.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_150.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_151.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_151.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_152.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_152.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_153.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_153.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_154.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_154.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_155.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_155.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_156.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_156.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_157.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_157.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_158.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_158.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_159.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_159.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_16.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_16.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_160.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_160.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_161.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_161.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_162.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_162.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_163.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_163.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_164.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_164.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_165.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_165.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_166.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_166.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_167.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_167.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_168.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_168.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_169.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_169.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_17.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_17.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_170.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_170.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_171.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_171.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_172.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_172.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_173.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_173.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_174.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_174.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_175.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_175.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_176.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_176.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_177.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_177.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_178.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_178.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_179.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_179.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_18.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_18.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_180.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_180.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_181.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_181.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_182.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_182.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_183.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_183.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_184.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_184.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_185.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_185.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_186.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_186.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_187.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_187.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_188.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_188.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_189.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_189.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_19.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_19.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_190.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_190.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_191.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_191.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_192.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_192.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_193.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_193.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_194.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_194.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_195.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_195.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_196.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_196.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_197.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_197.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_198.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_198.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_199.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_199.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_2.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_2.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_20.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_20.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_200.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_200.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_201.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_201.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_202.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_202.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_203.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_203.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_204.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_204.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_205.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_205.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_206.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_206.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_207.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_207.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_208.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_208.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_209.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_209.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_21.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_21.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_22.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_22.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_23.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_23.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_24.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_24.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_25.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_25.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_26.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_26.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_27.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_27.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_28.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_28.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_29.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_29.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_3.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_3.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_30.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_30.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_31.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_31.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_32.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_32.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_33.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_33.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_34.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_34.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_35.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_35.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_36.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_36.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_37.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_37.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_38.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_38.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_39.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_39.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_4.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_4.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_40.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_40.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_41.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_41.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_42.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_42.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_43.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_43.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_44.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_44.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_45.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_45.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_46.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_46.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_47.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_47.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_48.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_48.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_49.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_49.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_5.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_5.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_50.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_50.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_51.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_51.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_52.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_52.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_53.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_53.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_54.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_54.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_55.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_55.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_56.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_56.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_57.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_57.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_58.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_58.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_59.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_59.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_6.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_6.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_60.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_60.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_61.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_61.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_62.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_62.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_63.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_63.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_64.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_64.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_65.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_65.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_66.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_66.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_67.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_67.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_68.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_68.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_69.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_69.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_7.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_7.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_70.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_70.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_71.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_71.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_72.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_72.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_73.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_73.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_74.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_74.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_75.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_75.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_76.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_76.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_77.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_77.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_78.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_78.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_79.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_79.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_8.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_8.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_80.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_80.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_81.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_81.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_82.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_82.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_83.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_83.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_84.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_84.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_85.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_85.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_86.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_86.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_87.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_87.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_88.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_88.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_89.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_89.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_9.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_9.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_90.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_90.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_91.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_91.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_92.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_92.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_93.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_93.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_94.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_94.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_95.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_95.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_96.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_96.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_97.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_97.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_98.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_98.jpg
+Converted Test_Frames\Without_CHDs\0X1A3E7BF1DFB132FB\frame_99.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A3E7BF1DFB132FB\frame_99.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_0.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_0.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_1.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_1.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_10.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_10.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_100.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_100.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_101.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_101.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_102.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_102.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_103.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_103.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_104.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_104.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_105.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_105.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_106.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_106.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_107.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_107.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_108.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_108.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_109.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_109.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_11.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_11.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_110.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_110.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_111.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_111.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_112.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_112.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_113.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_113.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_114.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_114.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_115.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_115.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_116.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_116.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_117.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_117.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_118.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_118.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_119.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_119.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_12.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_12.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_120.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_120.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_121.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_121.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_122.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_122.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_123.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_123.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_124.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_124.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_125.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_125.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_126.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_126.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_127.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_127.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_128.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_128.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_129.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_129.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_13.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_13.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_130.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_130.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_131.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_131.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_132.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_132.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_14.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_14.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_15.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_15.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_16.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_16.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_17.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_17.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_18.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_18.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_19.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_19.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_2.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_2.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_20.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_20.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_21.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_21.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_22.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_22.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_23.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_23.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_24.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_24.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_25.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_25.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_26.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_26.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_27.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_27.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_28.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_28.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_29.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_29.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_3.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_3.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_30.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_30.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_31.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_31.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_32.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_32.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_33.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_33.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_34.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_34.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_35.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_35.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_36.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_36.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_37.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_37.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_38.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_38.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_39.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_39.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_4.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_4.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_40.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_40.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_41.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_41.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_42.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_42.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_43.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_43.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_44.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_44.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_45.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_45.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_46.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_46.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_47.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_47.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_48.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_48.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_49.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_49.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_5.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_5.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_50.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_50.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_51.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_51.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_52.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_52.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_53.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_53.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_54.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_54.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_55.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_55.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_56.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_56.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_57.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_57.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_58.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_58.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_59.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_59.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_6.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_6.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_60.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_60.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_61.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_61.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_62.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_62.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_63.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_63.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_64.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_64.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_65.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_65.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_66.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_66.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_67.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_67.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_68.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_68.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_69.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_69.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_7.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_7.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_70.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_70.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_71.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_71.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_72.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_72.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_73.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_73.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_74.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_74.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_75.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_75.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_76.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_76.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_77.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_77.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_78.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_78.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_79.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_79.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_8.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_8.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_80.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_80.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_81.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_81.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_82.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_82.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_83.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_83.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_84.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_84.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_85.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_85.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_86.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_86.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_87.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_87.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_88.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_88.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_89.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_89.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_9.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_9.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_90.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_90.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_91.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_91.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_92.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_92.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_93.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_93.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_94.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_94.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_95.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_95.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_96.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_96.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_97.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_97.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_98.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_98.jpg
+Converted Test_Frames\Without_CHDs\0X1A5FAE3F9D37794E\frame_99.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A5FAE3F9D37794E\frame_99.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_0.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_0.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_1.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_1.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_10.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_10.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_100.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_100.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_101.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_101.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_102.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_102.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_103.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_103.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_104.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_104.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_105.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_105.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_106.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_106.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_107.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_107.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_108.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_108.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_109.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_109.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_11.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_11.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_110.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_110.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_111.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_111.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_112.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_112.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_113.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_113.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_114.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_114.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_115.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_115.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_116.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_116.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_117.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_117.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_118.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_118.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_119.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_119.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_12.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_12.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_120.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_120.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_121.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_121.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_122.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_122.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_123.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_123.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_124.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_124.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_125.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_125.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_126.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_126.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_127.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_127.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_128.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_128.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_129.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_129.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_13.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_13.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_130.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_130.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_131.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_131.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_132.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_132.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_133.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_133.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_134.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_134.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_135.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_135.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_136.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_136.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_137.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_137.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_138.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_138.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_139.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_139.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_14.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_14.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_140.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_140.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_141.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_141.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_142.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_142.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_143.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_143.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_144.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_144.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_145.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_145.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_146.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_146.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_147.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_147.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_148.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_148.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_149.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_149.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_15.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_15.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_150.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_150.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_151.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_151.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_152.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_152.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_153.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_153.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_154.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_154.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_155.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_155.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_156.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_156.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_157.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_157.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_158.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_158.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_159.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_159.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_16.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_16.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_160.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_160.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_161.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_161.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_162.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_162.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_163.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_163.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_164.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_164.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_165.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_165.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_166.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_166.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_167.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_167.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_168.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_168.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_169.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_169.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_17.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_17.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_170.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_170.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_171.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_171.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_172.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_172.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_173.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_173.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_174.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_174.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_175.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_175.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_176.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_176.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_177.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_177.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_178.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_178.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_179.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_179.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_18.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_18.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_180.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_180.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_181.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_181.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_182.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_182.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_183.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_183.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_184.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_184.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_185.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_185.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_186.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_186.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_187.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_187.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_188.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_188.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_189.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_189.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_19.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_19.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_190.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_190.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_191.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_191.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_192.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_192.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_193.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_193.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_194.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_194.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_195.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_195.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_196.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_196.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_197.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_197.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_198.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_198.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_199.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_199.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_2.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_2.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_20.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_20.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_200.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_200.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_201.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_201.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_202.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_202.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_203.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_203.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_204.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_204.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_205.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_205.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_206.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_206.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_207.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_207.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_208.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_208.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_209.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_209.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_21.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_21.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_210.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_210.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_211.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_211.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_212.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_212.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_213.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_213.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_214.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_214.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_215.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_215.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_216.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_216.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_217.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_217.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_218.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_218.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_219.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_219.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_22.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_22.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_220.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_220.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_221.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_221.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_222.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_222.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_223.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_223.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_224.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_224.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_225.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_225.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_226.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_226.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_227.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_227.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_228.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_228.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_229.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_229.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_23.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_23.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_230.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_230.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_231.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_231.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_232.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_232.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_233.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_233.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_234.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_234.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_235.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_235.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_236.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_236.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_237.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_237.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_238.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_238.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_239.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_239.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_24.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_24.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_240.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_240.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_241.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_241.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_25.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_25.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_26.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_26.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_27.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_27.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_28.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_28.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_29.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_29.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_3.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_3.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_30.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_30.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_31.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_31.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_32.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_32.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_33.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_33.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_34.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_34.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_35.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_35.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_36.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_36.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_37.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_37.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_38.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_38.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_39.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_39.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_4.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_4.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_40.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_40.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_41.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_41.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_42.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_42.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_43.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_43.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_44.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_44.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_45.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_45.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_46.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_46.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_47.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_47.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_48.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_48.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_49.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_49.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_5.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_5.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_50.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_50.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_51.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_51.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_52.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_52.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_53.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_53.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_54.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_54.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_55.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_55.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_56.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_56.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_57.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_57.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_58.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_58.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_59.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_59.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_6.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_6.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_60.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_60.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_61.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_61.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_62.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_62.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_63.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_63.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_64.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_64.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_65.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_65.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_66.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_66.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_67.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_67.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_68.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_68.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_69.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_69.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_7.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_7.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_70.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_70.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_71.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_71.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_72.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_72.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_73.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_73.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_74.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_74.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_75.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_75.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_76.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_76.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_77.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_77.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_78.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_78.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_79.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_79.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_8.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_8.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_80.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_80.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_81.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_81.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_82.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_82.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_83.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_83.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_84.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_84.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_85.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_85.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_86.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_86.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_87.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_87.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_88.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_88.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_89.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_89.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_9.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_9.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_90.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_90.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_91.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_91.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_92.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_92.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_93.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_93.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_94.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_94.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_95.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_95.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_96.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_96.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_97.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_97.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_98.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_98.jpg
+Converted Test_Frames\Without_CHDs\0X1A6ACFE7B286DAFC\frame_99.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A6ACFE7B286DAFC\frame_99.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_0.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_0.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_1.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_1.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_10.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_10.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_100.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_100.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_101.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_101.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_102.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_102.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_103.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_103.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_104.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_104.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_105.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_105.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_106.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_106.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_107.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_107.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_108.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_108.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_109.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_109.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_11.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_11.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_110.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_110.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_111.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_111.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_112.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_112.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_113.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_113.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_114.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_114.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_115.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_115.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_116.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_116.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_117.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_117.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_118.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_118.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_119.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_119.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_12.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_12.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_120.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_120.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_121.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_121.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_122.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_122.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_123.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_123.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_124.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_124.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_125.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_125.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_126.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_126.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_127.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_127.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_128.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_128.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_129.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_129.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_13.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_13.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_130.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_130.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_131.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_131.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_132.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_132.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_133.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_133.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_134.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_134.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_135.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_135.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_136.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_136.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_137.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_137.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_138.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_138.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_139.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_139.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_14.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_14.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_140.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_140.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_141.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_141.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_142.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_142.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_143.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_143.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_144.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_144.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_145.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_145.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_146.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_146.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_147.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_147.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_148.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_148.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_149.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_149.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_15.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_15.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_150.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_150.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_151.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_151.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_152.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_152.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_153.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_153.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_154.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_154.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_155.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_155.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_156.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_156.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_157.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_157.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_158.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_158.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_159.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_159.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_16.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_16.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_160.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_160.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_161.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_161.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_162.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_162.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_163.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_163.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_164.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_164.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_165.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_165.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_166.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_166.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_167.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_167.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_168.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_168.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_169.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_169.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_17.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_17.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_170.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_170.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_171.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_171.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_172.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_172.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_173.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_173.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_174.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_174.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_175.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_175.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_176.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_176.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_177.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_177.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_178.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_178.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_179.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_179.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_18.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_18.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_180.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_180.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_181.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_181.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_182.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_182.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_183.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_183.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_184.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_184.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_185.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_185.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_186.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_186.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_187.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_187.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_19.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_19.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_2.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_2.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_20.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_20.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_21.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_21.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_22.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_22.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_23.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_23.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_24.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_24.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_25.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_25.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_26.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_26.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_27.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_27.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_28.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_28.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_29.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_29.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_3.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_3.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_30.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_30.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_31.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_31.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_32.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_32.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_33.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_33.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_34.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_34.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_35.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_35.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_36.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_36.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_37.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_37.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_38.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_38.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_39.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_39.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_4.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_4.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_40.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_40.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_41.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_41.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_42.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_42.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_43.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_43.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_44.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_44.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_45.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_45.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_46.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_46.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_47.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_47.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_48.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_48.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_49.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_49.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_5.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_5.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_50.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_50.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_51.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_51.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_52.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_52.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_53.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_53.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_54.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_54.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_55.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_55.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_56.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_56.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_57.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_57.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_58.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_58.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_59.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_59.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_6.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_6.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_60.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_60.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_61.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_61.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_62.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_62.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_63.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_63.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_64.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_64.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_65.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_65.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_66.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_66.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_67.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_67.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_68.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_68.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_69.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_69.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_7.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_7.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_70.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_70.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_71.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_71.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_72.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_72.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_73.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_73.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_74.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_74.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_75.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_75.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_76.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_76.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_77.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_77.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_78.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_78.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_79.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_79.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_8.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_8.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_80.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_80.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_81.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_81.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_82.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_82.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_83.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_83.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_84.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_84.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_85.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_85.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_86.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_86.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_87.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_87.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_88.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_88.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_89.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_89.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_9.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_9.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_90.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_90.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_91.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_91.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_92.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_92.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_93.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_93.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_94.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_94.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_95.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_95.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_96.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_96.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_97.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_97.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_98.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_98.jpg
+Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_99.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_99.jpg
