@@ -7,9 +7,9 @@ import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 import os
 # Set paths to your dataset directories
-data_dir = "/path/to/echocardiogram/dataset"
-chd_dir = os.path.join(data_dir, 'CHD')  # Images showing congenital heart defects
-no_chd_dir = os.path.join(data_dir, 'No_CHD')  # Images showing normal hearts
+data_dir = "Test_Frames_Grayscale"
+chd_dir = os.path.join(data_dir, 'With_CHDs')  # Images showing congenital heart defects
+no_chd_dir = os.path.join(data_dir, 'Without_CHDs')  # Images showing normal hearts
 
 # Define image size (e.g., 128x128)
 img_size = 128
@@ -99,3 +99,12 @@ plt.title('Loss')
 plt.legend()
 
 plt.show()
+
+def classify_folder(folder_path):
+    image_paths = [os.path.join(folder_path, file) for file in os.listdir(folder_path) if file.endswith(('.jpg', '.png'))]
+    return classify_echocardiograms(image_paths)
+
+# Example usage:
+folder_predictions = classify_folder('InputPredictionsFrames\With_CHD')
+for image, prediction in folder_predictions.items():
+    print(f"{image}: {prediction}")
