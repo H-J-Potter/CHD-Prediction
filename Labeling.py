@@ -2,9 +2,9 @@ import os
 import pandas as pd
 
 # Define paths to your data directories
-frames_dir = "Test Frames"
-with_chd_dir = os.path.join(frames_dir, "With_CHD")
-without_chd_dir = os.path.join(frames_dir, "Without_CHD")
+frames_dir = "Test_Frames_Grayscale"
+with_chd_dir = os.path.join(frames_dir, "With_CHDs")
+without_chd_dir = os.path.join(frames_dir, "Without_CHDs")
 
 # Create lists to store frame file paths and labels
 file_paths = []
