@@ -1333,3 +1333,52 @@ Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_96.jpg to grayscale 
 Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_97.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_97.jpg
 Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_98.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_98.jpg
 Converted Test_Frames\Without_CHDs\0X1A8D85542DBE8204\frame_99.jpg to grayscale and saved to Test_Frames_Grayscale\Without_CHDs\0X1A8D85542DBE8204\frame_99.jpg
+
+Model Training 1:
+PS C:\Users\kapoo\OneDrive\Desktop\CHD-Prediction> & C:/Users/kapoo/AppData/Local/Microsoft/WindowsApps/python3.12.exe c:/Users/kapoo/OneDrive/Desktop/CHD-Prediction/main.py
+2024-12-30 19:30:42.638156: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-12-30 19:30:43.228439: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To tur2024-12-30 19:30:43.228439: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To tur2024-12-30 19:30:43.228439: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-12-30 19:30:43.228439: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Epoch 1/10, Loss: 0.0337
+2024-12-30 19:30:43.228439: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Epoch 1/10, Loss: 0.0337
+2024-12-30 19:30:43.228439: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Epoch 1/10, Loss: 0.0337
+Validation Loss: 2.3015, Accuracy: 0.2881
+2024-12-30 19:30:43.228439: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Epoch 1/10, Loss: 0.0337
+Validation Loss: 2.3015, Accuracy: 0.2881
+2024-12-30 19:30:43.228439: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Epoch 1/10, Loss: 0.0337
+Validation Loss: 2.3015, Accuracy: 0.2881
+2024-12-30 19:30:43.228439: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Epoch 1/10, Loss: 0.0337
+2024-12-30 19:30:43.228439: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-12-30 19:30:43.228439: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To tur2024-12-30 19:30:43.228439: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Epoch 1/10, Loss: 0.0337
+2024-12-30 19:30:43.228439: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Epoch 1/10, Loss: 0.0337
+Validation Loss: 2.3015, Accuracy: 0.2881
+2024-12-30 19:30:43.228439: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-12-30 19:30:43.228439: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To tur2024-12-30 19:30:43.228439: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To tur2024-12-30 19:30:43.228439: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Epoch 1/10, Loss: 0.0337
+Validation Loss: 2.3015, Accuracy: 0.2881
+Epoch 2/10, Loss: 0.0021
+Validation Loss: 0.0111, Accuracy: 1.0000
+Epoch 3/10, Loss: 0.0007
+Validation Loss: 0.0002, Accuracy: 1.0000
+Epoch 4/10, Loss: 0.0021
+Validation Loss: 0.0021, Accuracy: 1.0000
+Epoch 5/10, Loss: 0.0004
+Validation Loss: 0.0001, Accuracy: 1.0000
+Epoch 6/10, Loss: 0.0001
+Validation Loss: 0.0000, Accuracy: 1.0000
+Epoch 7/10, Loss: 0.0001
+Validation Loss: 0.0000, Accuracy: 1.0000
+Epoch 8/10, Loss: 0.0001
+Validation Loss: 0.0000, Accuracy: 1.0000
+Epoch 9/10, Loss: 0.0000
+Validation Loss: 0.0000, Accuracy: 1.0000
+Epoch 10/10, Loss: 0.0000
+Validation Loss: 0.0000, Accuracy: 1.0000
+Model saved to echocardiogram_model.pth
